@@ -1,1 +1,3 @@
 This program was created by Fortune IT-Company
+kivy == 2.1.0
+plyer == 2.0.0
