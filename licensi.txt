@@ -1,0 +1,1 @@
+This program was created by Fortune IT-Company. The program function allows you to sort files in txt format depending on the shortcut entered.
